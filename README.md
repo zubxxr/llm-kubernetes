@@ -16,5 +16,5 @@
    ```
 4. Command to use model
    ```bash
-   ollama run mistral "How many days are there in a year?"
+   ollama run llama3.2 "How many days are there in a year?"
    ```
